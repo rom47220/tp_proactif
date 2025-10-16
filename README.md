@@ -24,8 +24,7 @@ Il mélange des QCM et des questions Vrai/Faux couvrant :
 - Command injection  
 - Bonnes pratiques DevSecOps (CodeQL, Dependabot…)
 
-👉 **Lien du quiz** : [👉 Accéder au Kahoot](https://kahoot.it/)  
-*(remplacer par le lien public de ton quiz une fois publié)*
+👉 **Lien du quiz** : [👉 Accéder au Kahoot](https://kahoot.it/?pin=3562974&refer_method=link)  
 
 ---
 
