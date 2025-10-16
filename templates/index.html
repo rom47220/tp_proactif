@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TP Proactif</title>
+    <script src="/static/vuln.js"></script>
+</head>
+<body>
+    <h1>Bienvenue sur le site</h1>
+
+    <h2>Recherche utilisateur</h2>
+    <form method="GET" action="/search">
+        <input type="text" name="user" placeholder="Nom d'utilisateur">
+        <button type="submit">Chercher</button>
+    </form>
+
+    <h2>Ping</h2>
+    <form method="GET" action="/ping">
+        <input type="text" name="host" placeholder="ex: 8.8.8.8">
+        <button type="submit">Ping</button>
+    </form>
+</body>
+</html>
